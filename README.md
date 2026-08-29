@@ -40,3 +40,25 @@ This feature is being developed on a separate branch.
 
 User authentication will be added in this feature.
 
+
+
+Commit 1
+
+Add dashboard section
+
+Commit 2
+
+
+
+Add dashboard features
+
+
+
+Commit 3
+
+
+
+Improve dashboard description
+
+
+
