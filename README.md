@@ -54,3 +54,11 @@ Add dashboard features
 
 
 
+Commit 3
+
+
+
+Improve dashboard description
+
+
+
