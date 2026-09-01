@@ -62,3 +62,9 @@ Improve dashboard description
 
 
 
+\## Settings Feature
+
+
+
+Project settings will be managed here.
+
